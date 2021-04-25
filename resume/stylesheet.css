@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
 }
 .bodytwo {  
+  background-color: pink;
   background-color: rgba(255, 255, 255, 0.75);
   margin: 1% 7%;
   border: none;
@@ -16,6 +17,7 @@ body {
   text-align: center;
 }
 .bodythree {
+  background-color: pink;
   background-color: rgba(255, 255, 255, 0.75);
   margin: 1% 7%;
   border: none;
