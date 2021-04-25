@@ -20,6 +20,8 @@
   font-family: Montserrat' sans-serif;
   padding: 3em;
   text-align: left;
+}
+ul.b {
   list-style-position: inside;
 }
 
