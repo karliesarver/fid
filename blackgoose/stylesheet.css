@@ -19,7 +19,12 @@
   margin: 0 10%;
   font-family: Montserrat' sans-serif;
   padding: 2.5em;
-  text-align: right;
+  text-align: left;
+}
+ul {
+  display: inline-block;
+  padding-left: 0;
+  text-align: left;
 }
   h1 {
     text-align: center;
